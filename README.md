@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-06-16 at 13 11 56_5bbeb4ec](https://github.com/user-attachments/assets/0b97f383-9a16-436b-9012-569a056ce470)
+
 # Expense Tracking System
 
 ## Overview
@@ -79,6 +81,11 @@ Category Breakdown
 Monthly Expense Comparison
 - Displays monthly spending trends with comparative insights.
 - Users can analyze habits and adjust spending accordingly.
+
+![image](https://github.com/user-attachments/assets/5a1adc3a-ca0a-4835-926e-fbf23d01b07b)
+![image](https://github.com/user-attachments/assets/5d5d9771-6032-451a-af3b-5bf73844cab3)
+![image](https://github.com/user-attachments/assets/9ece09d6-a913-4934-a511-05f7e0740538)
+
 
 
 
