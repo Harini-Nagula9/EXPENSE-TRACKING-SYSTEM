@@ -6,7 +6,7 @@
 The **Expense Tracking System** is a web-based application designed to help users manage their expenses efficiently. It features **FastAPI for backend**, **MySQL for data storage**, **Streamlit for frontend visualization**, and **Postman for API testing**.
 
 ## Project Structure
- Expense-Tracking-System ┣ 📂 backend      # FastAPI-based backend ┣ 📂 frontend     # Streamlit-based frontend ┣ 📂 tests        # API testing setup ┣ 📜 README.md    # Project documentation ┣ 📜 requirements.txt # Dependencies
+ Expense-Tracking-System ┣ 📂 backend      # FastAPI-based backend ┣ 📂 frontend     # Streamlit-based frontend ┣ 📂images ┣ 📂 tests        # API testing setup ┣ 📜 README.md    # Project documentation ┣ 📜 requirements.txt # Dependencies
 
 ---
 
