@@ -81,7 +81,7 @@ Category Breakdown
 Monthly Expense Comparison
 - Displays monthly spending trends with comparative insights.
 - Users can analyze habits and adjust spending accordingly.
-![image](https://github.com/user-attachments/assets/421c110f-cf40-40df-b48d-444722cae304)
+
 
 
 
